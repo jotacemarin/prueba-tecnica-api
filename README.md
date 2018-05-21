@@ -9,8 +9,6 @@
 ### Base de datos
 
 ```
-#!SQL
-
 CREATE DATABASE prueba_tecnica
     WITH 
     OWNER = pombo
