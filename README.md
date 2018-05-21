@@ -11,7 +11,7 @@
 ```
 CREATE DATABASE prueba_tecnica
     WITH 
-    OWNER = pombo
+    OWNER = username
     TEMPLATE = postgres
     ENCODING = 'UTF8'
     LC_COLLATE = 'en_US.UTF-8'
